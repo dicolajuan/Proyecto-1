@@ -15,7 +15,7 @@ const Paciente = ({paciente, setPaciente, setPacientes, pacientes}) => {
     };
 
     return (
-        <>
+        <> 
             <div className="mx-5 my-8 bg-white shadow-md rounded-lg py-10 px-5">
                 <p className="font-bold mb-3 text-gray-700 uppercase">Nombre: <span className="font-normal normal-case">{nombre}</span></p>
                     
